@@ -1,0 +1,3 @@
+[submodule "cpptraj"]
+	path = cpptraj
+	url = https://github.com/jpramassini/cpptraj.git
